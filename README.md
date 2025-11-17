@@ -37,8 +37,8 @@ I’m passionate about building delightful mobile experiences by combining clean
           biometric protection.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SwiftUI-5855D7?style=plastic&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftData-5855D7?style=plastic&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftUI-5855D7?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-5855D7?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
       <!-- CARD 2 -->
@@ -49,8 +49,21 @@ I’m passionate about building delightful mobile experiences by combining clean
           Organize all your desires in one place and create personalized goals to achieve each one. Plus, unlock rewards as you progress on your journey.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SwiftUI-C95799?style=plastic&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftData-C95799?style=plastic&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftUI-C95799?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-C95799?style=flat&logo=swift&logoColor=white" />
+        </p>
+      </td>
+      <!-- CARD 3 -->
+      <td align="center" width="300">
+        <img src="assets/itc-thumb.png" width="260" alt="Into the Cauldron" />
+        <h3><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421">Into the Cauldron</a></h3>
+        <p style="max-width:260px">
+          In the game Into the Cauldron, you'll mix magical ingredients, serve super peculiar customers, and create unique potions full of unexpected effects!
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/SpriteKit-D87944?style=flat&logo=apple&logoColor=white" />
+          <img src="https://img.shields.io/badge/AVKit-D87944?style=flat&logo=apple&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftUI-D87944?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
   </table>

@@ -38,10 +38,11 @@ I’m passionate about building delightful mobile experiences by combining clean
   </tr>
 </table>
 
-## 📊 Live GitHub Stats
+#
 <p align="left">
-  <img src="https://api.star-history.com/svg?repos=maarcq/REPO_1,maarcq/REPO_2&type=Date" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maarcq&show_icons=true&theme=transparent&hide_border=true&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&bg_color=00000000" alt="Marcelle's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcq&layout=compact&theme=transparent&hide_border=true&title_color=c084fc&text_color=e9d5ff&bg_color=00000000" alt="Top languages" />
+</p
 
 ## 📬 Contact
 - LinkedIn: [https://www.linkedin.com/in/marcellerq]  

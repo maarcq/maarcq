@@ -1,25 +1,19 @@
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="28"/> Hi, I'm **Marcelle Queiroz**
+##Hi, I'm **Marcelle Queiroz**
 
 🎓 Student at **Apple Developer Academy | Fortaleza**  
 🎓 Telecommunications Engineering student at **IFCE – Fortaleza**  
 📱 **iOS Mobile Developer** (Swift)  
 🎨 **UI/UX Mobile Designer**
 
----
-
 ## 🚀 About Me  
 I’m passionate about building meaningful experiences through code and design.  
 I love developing iOS apps, exploring new technologies, learning every day, and combining UI/UX with clean architecture to deliver intuitive mobile solutions.
-
----
 
 ## 🧩 What I'm Currently Studying
 - 📱 iOS Mobile Development  
 - 🧪 Swift & modern Apple frameworks  
 - 🧱 Declarative UI with SwiftUI  
 - 🎯 Best practices & architecture for scalable apps  
-
----
 
 ## 🛠️ Tech Stack & Tools  
 

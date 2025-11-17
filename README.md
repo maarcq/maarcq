@@ -5,14 +5,14 @@
 
 #
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/SwiftData-5E5E5E?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
-  <img src="https://img.shields.io/badge/Combine-333333?style=for-the-badge&logo=apple&logoColor=white" alt="Combine" />
-  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit" />
-  <img src="https://img.shields.io/badge/API-REST-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Swift-FF7043?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-1565C0?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SwiftData-7915C0?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/UIKit-C01515?style=flat&logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Combine-2E7D32?style=flat&logo=apple&logoColor=white" alt="Combine" />
+  <img src="https://img.shields.io/badge/ARKit-2E1C19?style=flat&logo=apple&logoColor=white" alt="ARKit" />
+  <img src="https://img.shields.io/badge/API-REST-FFC343?style=flat&logo=postman&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/UI%2FUX-FF4394?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
 **🍎** Student at **Apple Developer Academy — Fortaleza**  
@@ -24,24 +24,42 @@
 I’m passionate about building delightful mobile experiences by combining clean Swift code and thoughtful UI/UX. Currently focusing on iOS mobile development, while also designing mobile interfaces and prototypes.
 
 ## 📱 Featured Projects
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="assets/sonharium-thumb.png" width="260" alt="Sonharium" />
-      <h3><a href="https://apps.apple.com/br/app/sonharium/id6504766911">Sonharium</a></h3>
-      <p style="max-width:260px">Discover the power of your dreams with Sonharium! You can record your dreams, obtain information about dream types, schedule reminders, and all this with biometric protection.</p>
-      <p>
-          <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-          <img src="https://img.shields.io/badge/SwiftData-5E5E5E?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />  
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <table>
+    <tr>
+      <!-- CARD 1 -->
+      <td align="center" width="300">
+        <img src="assets/sonharium-thumb.png" width="260" alt="Sonharium" />
+        <h3><a href="https://apps.apple.com/br/app/sonharium/id6504766911">Sonharium</a></h3>
+        <p style="max-width:260px">
+          Discover the power of your dreams with Sonharium! You can record your dreams,
+          obtain information about dream types, schedule reminders, and all this with
+          biometric protection.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/SwiftUI-5855D7?style=plastic&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-5855D7?style=plastic&logo=swift&logoColor=white" />
+        </p>
+      </td>
+      <!-- CARD 2 -->
+      <td align="center" width="300">
+        <img src="assets/wanty-thumb.png" width="260" alt="Wanty" />
+        <h3><a href="https://apps.apple.com/br/app/wanty/id6737251920">Wanty</a></h3>
+        <p style="max-width:260px">
+          Organize all your desires in one place and create personalized goals to achieve each one. Plus, unlock rewards as you progress on your journey.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/SwiftUI-C95799?style=plastic&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-C95799?style=plastic&logo=swift&logoColor=white" />
+        </p>
+      </td>
+  </table>
+</p>
 
 #
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maarcq&show_icons=true&theme=transparent&hide_border=true&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&bg_color=00000000" alt="Marcelle's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcq&layout=compact&theme=transparent&hide_border=true&title_color=c084fc&text_color=e9d5ff&bg_color=00000000" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maarcq&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000" alt="Marcelle's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcq&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000" alt="Top languages" />
 </p
 
 ## 📬 Contact

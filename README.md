@@ -1,16 +1,63 @@
-## Hi there 👋
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="28"/> Hi, I'm **Marcelle Queiroz**
 
-<!--
-**maarcq/maarcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at **Apple Developer Academy | Fortaleza**  
+🎓 Telecommunications Engineering student at **IFCE – Fortaleza**  
+📱 **iOS Mobile Developer** (Swift)  
+🎨 **UI/UX Mobile Designer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I’m passionate about building meaningful experiences through code and design.  
+I love developing iOS apps, exploring new technologies, learning every day, and combining UI/UX with clean architecture to deliver intuitive mobile solutions.
+
+---
+
+## 🧩 What I'm Currently Studying
+- 📱 iOS Mobile Development  
+- 🧪 Swift & modern Apple frameworks  
+- 🧱 Declarative UI with SwiftUI  
+- 🎯 Best practices & architecture for scalable apps  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftData-5E5E5E?style=for-the-badge&logo=swift&logoColor=white"/>
+</p>
+
+### **Technologies & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Combine-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+### **Design Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prototyping-8BC34A?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## ✨ Fun Facts  
+- 💡 I love turning ideas into real products  
+- 🎨 I combine design + mobile development  
+- 🚀 Always learning & exploring new things  
+
+---
+
+## 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
+

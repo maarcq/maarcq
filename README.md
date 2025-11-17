@@ -32,9 +32,7 @@ I’m passionate about building delightful mobile experiences by combining clean
         <img src="assets/sonharium-thumb.png" width="260" alt="Sonharium" />
         <h3><a href="https://apps.apple.com/br/app/sonharium/id6504766911">Sonharium</a></h3>
         <p style="max-width:260px">
-          Discover the power of your dreams with Sonharium! You can record your dreams,
-          obtain information about dream types, schedule reminders, and all this with
-          biometric protection.
+          You can record your dreams, obtain information about dream types, schedule reminders, and all this with biometric protection.
         </p>
         <p>
           <img src="https://img.shields.io/badge/SwiftUI-5855D7?style=flat&logo=swift&logoColor=white" />

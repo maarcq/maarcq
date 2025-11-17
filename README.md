@@ -46,17 +46,9 @@ I love developing iOS apps, exploring new technologies, learning every day, and 
 
 ---
 
-## ✨ Fun Facts  
-- 💡 I love turning ideas into real products  
-- 🎨 I combine design + mobile development  
-- 🚀 Always learning & exploring new things  
-
----
-
 ## 📫 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/marcellerq)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 

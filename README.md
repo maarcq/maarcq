@@ -68,7 +68,8 @@ I’m passionate about building delightful mobile experiences by combining clean
 </p>
 
 ## 📬 Contact
-- LinkedIn: [https://www.linkedin.com/in/marcellerq]  
-- Email: [contato.marcellequeiroz@gmail.com]  
+<p align="left">
+  <a href="https://www.linkedin.com/in/marcellerq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-006DCB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-**Thanks for stopping by — I’m always open to collab, mentorship, or coffee chats about iOS, UI/UX and AR experiences. 🫧**
+  **Email:** [contato.marcellequeiroz@gmail.com]
+</p>

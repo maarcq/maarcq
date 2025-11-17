@@ -56,12 +56,6 @@ I’m passionate about building delightful mobile experiences by combining clean
   </table>
 </p>
 
-#
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maarcq&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=00000000" alt="Marcelle's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarcq&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=00000000" alt="Top languages" />
-</p
-
 ## 📬 Contact
 - LinkedIn: [https://www.linkedin.com/in/marcellerq]  
 - Email: [contato.marcellequeiroz@gmail.com]  

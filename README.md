@@ -71,7 +71,7 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
 
 ## 📬 Contact
 <p align="left">
-  <a href="https://www.linkedin.com/in/marcellerq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-006DCB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  **Email:** [contato.marcellequeiroz@gmail.com]
+  <a href="https://instagram.com/mqdeviner" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0076?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcellerq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-006DCB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.marcellequeiroz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D9001A?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>

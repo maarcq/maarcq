@@ -17,14 +17,19 @@
 </p>
 
 <p align="left">
-  <img src="assets/GitHubCover.png" width="10" />
+  <img src="assets/Vector.png" width="12" />
   Apple Developer Academy Alumni 
 </p>
-
-**🍎** Apple Developer Academy Alumni  
-**🎓** Telecommunications Engineering Student at IFCE Fortaleza  
-**📱** iOS Mobile Developer (Swift, SwiftUI, UIKit)  
-**🎨** Mobile UI/UX Designer
+<p align="left">
+  <img src="assets/Vector.png" width="12" />
+  Telecommunications Engineering Student at IFCE Fortaleza   
+</p><p align="left">
+  <img src="assets/Vector.png" width="12" />
+  iOS Mobile Developer (Swift, SwiftUI, UIKit)
+</p><p align="left">
+  <img src="assets/Vector.png" width="12" />
+  Mobile UI/UX Designer 
+</p>
 
 ## About Me
 Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, SwiftData, and CoreData, in addition to having experience in UI/UX Design for mobile applications. My goal is to create intuitive, efficient solutions with an exceptional user experience.

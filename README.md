@@ -40,10 +40,10 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
     <tr>
       <!-- CARD 1  ALTROO -->
       <td align="top" width="300">
-        <img src="assets/sonharium-thumb.png" width="300" alt="Altroo"/>
+        <img src="assets/altroo-thumb.png" width="280" alt="Altroo"/>
         <h3><a href="https://apps.apple.com/br/app/altroo/id6754249731">Altroo</a></h3>
-        <p style="max-width:300px">
-          Designed for professional caregivers, it focuses on organizing and sharing caregiving activities, emphasizing usability, clarity of information, and collaboration among different user profiles.
+        <p style="max-width:280px">
+          An application developed for professional caregivers, focusing on usability and information sharing.
         </p>
         <p>
           <img src="https://img.shields.io/badge/UIKit-B200FF?style=flat&logo=swift&logoColor=white" />
@@ -52,9 +52,9 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
       </td>
       <!-- CARD 2 INTO THE CAULDRON -->
       <td align="top" width="300">
-        <img src="assets/itc-thumb.png" width="300" alt="Into the Cauldron" />
+        <img src="assets/itc-thumb.png" width="280" alt="Into the Cauldron" />
         <h3><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421">Into the Cauldron</a></h3>
-        <p style="max-width:300px">
+        <p style="max-width:280px">
           In the game Into the Cauldron, you'll mix magical ingredients, serve super peculiar customers, and create unique potions full of unexpected effects!
         </p>
         <p>
@@ -65,9 +65,9 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
       </td>
       <!-- CARD 3 WANTY -->
       <td align="top" width="300">
-        <img src="assets/wanty-thumb.png" width="300" alt="Wanty" />
+        <img src="assets/wanty-thumb.png" width="280" alt="Wanty" />
         <h3><a href="https://apps.apple.com/br/app/wanty/id6737251920">Wanty</a></h3>
-        <p style="max-width:300px">
+        <p style="max-width:280px">
           Organize all your desires in one place and create personalized goals to achieve each one. Plus, unlock rewards as you progress on your journey.
         </p>
         <p>
@@ -77,9 +77,9 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
       </td>
       <!-- CARD 4  SONHARIUM -->
       <td align="top" width="300">
-        <img src="assets/sonharium-thumb.png" width="300" alt="Sonharium"/>
+        <img src="assets/sonharium-thumb.png" width="280" alt="Sonharium"/>
         <h3><a href="https://apps.apple.com/br/app/sonharium/id6504766911">Sonharium</a></h3>
-        <p style="max-width:300px">
+        <p style="max-width:280px">
           You can record your dreams, get information about the different types of dreams, and receive reminders so you don't forget to write them down.
         </p>
         <p>

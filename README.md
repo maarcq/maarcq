@@ -3,22 +3,21 @@
   <img src="./assets/header.svg" alt="Animated header" width="100%" />
 </p>
 
-#
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-FF7043?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-1565C0?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/SwiftData-7915C0?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/UIKit-C01515?style=flat&logo=apple&logoColor=white" alt="UIKit" />
-  <img src="https://img.shields.io/badge/Combine-2E7D32?style=flat&logo=apple&logoColor=white" alt="Combine" />
-  <img src="https://img.shields.io/badge/ARKit-2E1C19?style=flat&logo=apple&logoColor=white" alt="ARKit" />
-  <img src="https://img.shields.io/badge/API REST-412781?style=flat&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF4394?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Illustrations-812735?style=flat&logo=krita&logoColor=white" alt="Ilustrations" />
-  <img src="https://img.shields.io/badge/App Store-2288C3?style=flat&logo=appstore&logoColor=white" alt="Ilustrations" />
+  <img src="https://img.shields.io/badge/Swift-B200FF?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SwiftData-B200FF?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/UIKit-B200FF?style=flat&logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Combine-B200FF?style=flat&logo=apple&logoColor=white" alt="Combine" />
+  <img src="https://img.shields.io/badge/ARKit-B200FF?style=flat&logo=apple&logoColor=white" alt="ARKit" />
+  <img src="https://img.shields.io/badge/API REST-B200FF?style=flat&logo=postman&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/UI%2FUX-B200FF?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Illustrations-B200FF?style=flat&logo=krita&logoColor=white" alt="Ilustrations" />
+  <img src="https://img.shields.io/badge/App Store-B200FF?style=flat&logo=appstore&logoColor=white" alt="Ilustrations" />
 </p>
 
-**🍎** Student at **Apple Developer Academy — Fortaleza**  
-**🎓** Telecommunications Engineering — IFCE Fortaleza  
+**🍎** Apple Developer Academy Alumni  
+**🎓** Telecommunications Engineering Student at IFCE Fortaleza  
 **📱** iOS Mobile Developer (Swift, SwiftUI, UIKit)  
 **🎨** Mobile UI/UX Designer
 

@@ -1,6 +1,6 @@
 <!-- Header with animated SVG (hosted in repo at assets/header.svg) -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Animated header" width="100%" />
+  <img src="assets/GitHubCover.png" width="100%" />
 </p>
 
 <p align="left">

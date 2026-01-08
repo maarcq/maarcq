@@ -16,59 +16,76 @@
   <img src="https://img.shields.io/badge/App Store-B200FF?style=flat&logo=appstore&logoColor=white" alt="Ilustrations" />
 </p>
 
+<p align="left">
+  <img src="assets/GitHubCover.png" width="10" />
+  Apple Developer Academy Alumni 
+</p>
+
 **🍎** Apple Developer Academy Alumni  
 **🎓** Telecommunications Engineering Student at IFCE Fortaleza  
 **📱** iOS Mobile Developer (Swift, SwiftUI, UIKit)  
 **🎨** Mobile UI/UX Designer
 
-## 👩🏻‍💻 About Me
+## About Me
 Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, SwiftData, and CoreData, in addition to having experience in UI/UX Design for mobile applications. My goal is to create intuitive, efficient solutions with an exceptional user experience.
 
-## 📱 Featured Projects
+## Featured Projects
 <p align="left">
   <table>
     <tr>
-      <!-- CARD 1 -->
-      <td align="top" width="280">
-        <img src="assets/sonharium-thumb.png" width="260" alt="Sonharium"/>
-        <h3><a href="https://apps.apple.com/br/app/sonharium/id6504766911">Sonharium</a></h3>
-        <p style="max-width:250px">
-          You can record your dreams, get information about the different types of dreams, and receive reminders so you don't forget to write them down.
+      <!-- CARD 1  ALTROO -->
+      <td align="top" width="300">
+        <img src="assets/sonharium-thumb.png" width="300" alt="Altroo"/>
+        <h3><a href="https://apps.apple.com/br/app/altroo/id6754249731">Altroo</a></h3>
+        <p style="max-width:300px">
+          Designed for professional caregivers, it focuses on organizing and sharing caregiving activities, emphasizing usability, clarity of information, and collaboration among different user profiles.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SwiftUI-5855D7?style=flat&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftData-5855D7?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/UIKit-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/CoreData-B200FF?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
-      <!-- CARD 2 -->
-      <td align="top" width="280">
-        <img src="assets/wanty-thumb.png" width="260" alt="Wanty" />
-        <h3><a href="https://apps.apple.com/br/app/wanty/id6737251920">Wanty</a></h3>
-        <p style="max-width:250px">
-          Organize all your desires in one place and create personalized goals to achieve each one. Plus, unlock rewards as you progress on your journey.
-        </p>
-        <p>
-          <img src="https://img.shields.io/badge/SwiftUI-C95799?style=flat&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftData-C95799?style=flat&logo=swift&logoColor=white" />
-        </p>
-      </td>
-      <!-- CARD 3 -->
-      <td align="top" width="280">
-        <img src="assets/itc-thumb.png" width="260" alt="Into the Cauldron" />
+      <!-- CARD 2 INTO THE CAULDRON -->
+      <td align="top" width="300">
+        <img src="assets/itc-thumb.png" width="300" alt="Into the Cauldron" />
         <h3><a href="https://apps.apple.com/br/app/into-the-cauldron/id6745516421">Into the Cauldron</a></h3>
-        <p style="max-width:250px">
+        <p style="max-width:300px">
           In the game Into the Cauldron, you'll mix magical ingredients, serve super peculiar customers, and create unique potions full of unexpected effects!
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SpriteKit-D87944?style=flat&logo=apple&logoColor=white" />
-          <img src="https://img.shields.io/badge/AVKit-D87944?style=flat&logo=apple&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftUI-D87944?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SpriteKit-B200FF?style=flat&logo=apple&logoColor=white" />
+          <img src="https://img.shields.io/badge/AVKit-B200FF?style=flat&logo=apple&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" />
+        </p>
+      </td>
+      <!-- CARD 3 WANTY -->
+      <td align="top" width="300">
+        <img src="assets/wanty-thumb.png" width="300" alt="Wanty" />
+        <h3><a href="https://apps.apple.com/br/app/wanty/id6737251920">Wanty</a></h3>
+        <p style="max-width:300px">
+          Organize all your desires in one place and create personalized goals to achieve each one. Plus, unlock rewards as you progress on your journey.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-B200FF?style=flat&logo=swift&logoColor=white" />
+        </p>
+      </td>
+      <!-- CARD 4  SONHARIUM -->
+      <td align="top" width="300">
+        <img src="assets/sonharium-thumb.png" width="300" alt="Sonharium"/>
+        <h3><a href="https://apps.apple.com/br/app/sonharium/id6504766911">Sonharium</a></h3>
+        <p style="max-width:300px">
+          You can record your dreams, get information about the different types of dreams, and receive reminders so you don't forget to write them down.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-B200FF?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
   </table>
 </p>
 
-## 📬 Contact
+## Contact
 <p align="left">
   <a href="https://instagram.com/mqdeviner" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0076?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marcellerq/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-006DCB?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

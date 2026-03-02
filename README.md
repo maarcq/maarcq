@@ -17,18 +17,14 @@
 </p>
 
 <p align="left">
-  <img src="assets/Vector.png" width="12" />
-  Apple Developer Academy Alumni 
+  🍎 Apple Developer Academy Alumni 
 </p>
 <p align="left">
-  <img src="assets/Vector.png" width="12" />
-  Telecommunications Engineering Student at IFCE Fortaleza   
+  🛰️ Telecommunications Engineering Student at IFCE Fortaleza   
 </p><p align="left">
-  <img src="assets/Vector.png" width="12" />
-  iOS Mobile Developer (Swift, SwiftUI, UIKit)
+  🤖 iOS Mobile Developer (Swift, SwiftUI, UIKit)
 </p><p align="left">
-  <img src="assets/Vector.png" width="12" />
-  Mobile UI/UX Designer 
+  📱 Mobile UI/UX Designer 
 </p>
 
 ## About Me

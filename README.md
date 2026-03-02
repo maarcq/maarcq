@@ -1,19 +1,19 @@
 <!-- Header with animated SVG (hosted in repo at assets/header.svg) -->
 <p align="center">
-  <img src="assets/GitHubCover.png" width="100%" />
+  <img src="assets/githubCover2.png" width="100%" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-B200FF?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/SwiftData-B200FF?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/UIKit-B200FF?style=flat&logo=apple&logoColor=white" alt="UIKit" />
-  <img src="https://img.shields.io/badge/Combine-B200FF?style=flat&logo=apple&logoColor=white" alt="Combine" />
-  <img src="https://img.shields.io/badge/ARKit-B200FF?style=flat&logo=apple&logoColor=white" alt="ARKit" />
-  <img src="https://img.shields.io/badge/API REST-B200FF?style=flat&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/UI%2FUX-B200FF?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Illustrations-B200FF?style=flat&logo=krita&logoColor=white" alt="Ilustrations" />
-  <img src="https://img.shields.io/badge/App Store-B200FF?style=flat&logo=appstore&logoColor=white" alt="Ilustrations" />
+  <img src="https://img.shields.io/badge/Swift-B02FC2?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-B02FC2?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SwiftData-B02FC2?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/UIKit-B02FC2?style=flat&logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Combine-B02FC2?style=flat&logo=apple&logoColor=white" alt="Combine" />
+  <img src="https://img.shields.io/badge/ARKit-B02FC2?style=flat&logo=apple&logoColor=white" alt="ARKit" />
+  <img src="https://img.shields.io/badge/API REST-B02FC2?style=flat&logo=postman&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/UI%2FUX-B02FC2?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Illustrations-B02FC2?style=flat&logo=krita&logoColor=white" alt="Ilustrations" />
+  <img src="https://img.shields.io/badge/App Store-B02FC2?style=flat&logo=appstore&logoColor=white" alt="Ilustrations" />
 </p>
 
 <p align="left">

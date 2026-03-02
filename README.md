@@ -19,7 +19,7 @@
 <p align="left">
   🛰️ Telecommunications Engineering Student at IFCE Fortaleza   
 </p><p align="left">
-  🤖 iOS Mobile Developer (Swift, SwiftUI, UIKit)
+  🤖 iOS Developer (Swift, SwiftUI, UIKit)
 </p><p align="left">
   📱 Mobile UI/UX Designer 
 </p>
@@ -36,11 +36,11 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
         <img src="assets/altroo-thumb.png" width="280" alt="Altroo"/>
         <h3><a href="https://apps.apple.com/br/app/altroo/id6754249731">Altroo</a></h3>
         <p style="max-width:280px">
-          An application developed for professional caregivers, focusing on usability and information sharing.
+          An application for professional caregivers, focused on usability, accessibility and efficient information sharing to support organized routines and high-quality coordinated care.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/UIKit-B200FF?style=flat&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/CoreData-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/UIKit-B02FC2?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/CoreData-B02FC2?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
       <!-- CARD 2 INTO THE CAULDRON -->
@@ -51,9 +51,8 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
           In the game Into the Cauldron, you'll mix magical ingredients, serve super peculiar customers, and create unique potions full of unexpected effects!
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SpriteKit-B200FF?style=flat&logo=apple&logoColor=white" />
-          <img src="https://img.shields.io/badge/AVKit-B200FF?style=flat&logo=apple&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SpriteKit-B02FC2?style=flat&logo=apple&logoColor=white" />
+          <img src="https://img.shields.io/badge/AVKit-B02FC2?style=flat&logo=apple&logoColor=white" />
         </p>
       </td>
       <!-- CARD 3 WANTY -->
@@ -64,8 +63,8 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
           Organize all your desires in one place and create personalized goals to achieve each one. Plus, unlock rewards as you progress on your journey.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftData-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftUI-B02FC2?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-B02FC2?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
       <!-- CARD 4  SONHARIUM -->
@@ -76,8 +75,8 @@ Currently, I dedicate myself to iOS development, working with SwiftUI, UIKit, Sw
           You can record your dreams, get information about the different types of dreams, and receive reminders so you don't forget to write them down.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/SwiftUI-B200FF?style=flat&logo=swift&logoColor=white" />
-          <img src="https://img.shields.io/badge/SwiftData-B200FF?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftUI-B02FC2?style=flat&logo=swift&logoColor=white" />
+          <img src="https://img.shields.io/badge/SwiftData-B02FC2?style=flat&logo=swift&logoColor=white" />
         </p>
       </td>
   </table>

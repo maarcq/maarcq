@@ -4,16 +4,13 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Swift-B02FC2?style=flat&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/SwiftUI-B02FC2?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/SwiftData-B02FC2?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/UIKit-B02FC2?style=flat&logo=apple&logoColor=white" alt="UIKit" />
-  <img src="https://img.shields.io/badge/Combine-B02FC2?style=flat&logo=apple&logoColor=white" alt="Combine" />
-  <img src="https://img.shields.io/badge/ARKit-B02FC2?style=flat&logo=apple&logoColor=white" alt="ARKit" />
-  <img src="https://img.shields.io/badge/API REST-B02FC2?style=flat&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/UI%2FUX-B02FC2?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
-  <img src="https://img.shields.io/badge/Illustrations-B02FC2?style=flat&logo=krita&logoColor=white" alt="Ilustrations" />
-  <img src="https://img.shields.io/badge/App Store-B02FC2?style=flat&logo=appstore&logoColor=white" alt="Ilustrations" />
+  <img src="https://img.shields.io/badge/Swift-D63A2F?style=flat&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/SwiftUI-3398AA?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/SwiftData-D19B1A?style=flat&logo=swift&logoColor=white" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/UIKit-469A4E?style=flat&logo=apple&logoColor=white" alt="UIKit" />
+  <img src="https://img.shields.io/badge/ARKit-2E5090?style=flat&logo=apple&logoColor=white" alt="ARKit" />
+  <img src="https://img.shields.io/badge/API REST-AC6433?style=flat&logo=postman&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/UI%2FUX-902E86?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
 <p align="left">
